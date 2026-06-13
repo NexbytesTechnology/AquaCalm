@@ -17,6 +17,7 @@
                 |-- favicon-32x32.png
                 |-- favicon.ico
                 |-- site.webmanifest
+            |-- hero-1.png
             |-- hero-2.png
             |-- hero.jpeg
             |-- logo.png
@@ -45,6 +46,7 @@
                 |-- favicon-32x32.png
                 |-- favicon.ico
                 |-- site.webmanifest
+            |-- hero-1.png
             |-- hero-2.png
             |-- hero.jpeg
             |-- logo.png

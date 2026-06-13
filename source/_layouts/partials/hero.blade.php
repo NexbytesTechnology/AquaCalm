@@ -31,7 +31,7 @@
 
     <!-- Right Image Section -->
     <div class="w-full md:w-1/2 flex justify-center  ">
-      <img src="{{ $page->baseUrl }}/assets/images/hero-2.png" alt="Packaging products" class="w-full h-auto mt-[5rem] transform rotate-45">
+      <img src="{{ $page->baseUrl }}/assets/images/hero-2.png" alt="Packaging products" class="w-full h-auto mt-[2rem] transform rotate-45">
     </div>
   </div>
 </div>
