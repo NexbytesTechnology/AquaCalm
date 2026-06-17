@@ -16,10 +16,7 @@
         >
             More
         </button>
-        <div class="dropdown-menu" aria-labelledby="dropdownId">
-            <a class="dropdown-item" href="#">First Dropdown</a>
-            <a class="dropdown-item" href="#">Second Dropdown</a>
-        </div>
+      
     </div>
 </div>
 
