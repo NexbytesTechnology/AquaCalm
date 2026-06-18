@@ -65,7 +65,6 @@
             |-- favicon.blade.php
             |-- footer.blade.php
             |-- hero.blade.php
-            |-- navbar.blade.php
 |-- tailwind.config.js
 |-- vendor
     |-- autoload.php
