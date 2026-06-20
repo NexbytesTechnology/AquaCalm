@@ -5,7 +5,7 @@
       <!-- About Section -->
       <div class="flex flex-col items-center lg:items-start">
         {{-- <img src="{{$page->baseUrl}}/assets/images/logo.png" alt="logo" class="h-16 mb-4"> --}}
-        <h1 class="text-6xl">Aquaartistry</h2>
+        <h1 class="text-6xl">Aquaartistry</h1>
         <p class="text-sm text-center lg:text-left leading-relaxed">
           SMP Print & Packaging is committed to delivering high-quality printing and packaging solutions that help your brand stand out.
         </p>

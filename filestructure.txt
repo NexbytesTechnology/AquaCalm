@@ -28,6 +28,30 @@
     |-- index.html
     |-- product
         |-- index.html
+|-- build_production
+    |-- about
+        |-- index.html
+    |-- assets
+        |-- images
+            |-- favicon
+                |-- android-chrome-192x192.png
+                |-- android-chrome-512x512.png
+                |-- apple-touch-icon.png
+                |-- favicon-16x16.png
+                |-- favicon-32x32.png
+                |-- favicon.ico
+                |-- site.webmanifest
+            |-- hero-1.png
+            |-- hero-2.png
+            |-- hero.jpeg
+            |-- logo.png
+    |-- contact
+        |-- index.html
+    |-- gallery
+        |-- index.html
+    |-- index.html
+    |-- product
+        |-- index.html
 |-- bun.lock
 |-- composer.json
 |-- composer.lock
@@ -65,6 +89,7 @@
             |-- favicon.blade.php
             |-- footer.blade.php
             |-- hero.blade.php
+            |-- navbar.blade.php
 |-- tailwind.config.js
 |-- vendor
     |-- autoload.php
