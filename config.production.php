@@ -2,5 +2,5 @@
 
 return [
     'production' => true,
-    'baseUrl' => 'https://nexbytestechnology.github.io/Aquaartistry',
+    'baseUrl' => 'https://nexbytestechnology.github.io/AquaCalm',
 ];
